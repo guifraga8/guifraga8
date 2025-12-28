@@ -7,7 +7,7 @@ Currently, I serve as the Technology Department Manager (IT Manager), leading th
 You can reach me through my email: **gui.fraga2009@hotmail.com**
 
 ## Languages
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoaccorsi&layout=compact&theme=radical" alt="augustoaccorsi" /> </p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifraga8&layout=compact&theme=radical" alt="guifraga8" /> </p>
 
 ## GitHub Stats
   <p><a href="https://github.com/guifraga8"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guifraga8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </p>
