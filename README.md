@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=3527F5&width=435&lines=Hi there +%F0%9F%91%8B!%2C+It's+Guilherme+Fraga;Software+Development+Specialist" alt="Software Development Specialist"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=3527F5&width=435&lines=Hi+there+%F0%9F%91%8B%21%2C+It%27s+Guilherme+Fraga;Software+Development+Specialist" alt="Software Development Specialist"/>
 </a>
 
 ### About me
