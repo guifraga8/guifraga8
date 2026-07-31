@@ -12,4 +12,4 @@ You can reach me through my email: **gui.fraga2009@hotmail.com**
 
 ### Main skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,materialui,ts,nestjs,express,nodejs,postman,postgres,prisma,mysql,vercel,azure,py,github,gitlab,git,html,css,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,materialui,ts,nestjs,express,nodejs,postman,postgres,prisma,mysql,vercel,azure,py,github,gitlab,git,html,css,js,php)](https://skillicons.dev)
