@@ -1,3 +1,7 @@
+<a href="https://komarev.com/ghpvc/?username=guifraga8">
+  <img align="right" src="https://komarev.com/ghpvc/?username=guifraga8&label=Visitors&color=6434eb&style=rounded" alt="Profile visitor" />
+</a>
+
 ### Hi there 👋
 
 Computer Science graduate passionate about technology and software development. Dedicated to delivering exceptional results, leading projects with commitment and a focus on excellence. I constantly seek new learning opportunities to enhance my skills and broaden my technical knowledge.
